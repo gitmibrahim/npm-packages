@@ -1,0 +1,3 @@
+/* Redirect all non-asset requests to index.html for SPA client-side routing */
+/* https://developers.cloudflare.com/pages/configuration/redirects/ */
+/*  /index.html  200
